@@ -10,10 +10,32 @@
 
 /* Inter - bold */ 
 @font-face {
-  font-family: 'Inter External';
+  font-family: 'Inter Squirrel';
   font-style:  normal;
   font-weight: 700;
   font-display: swap;
-  src: url("./inter-latin-700-normal-external.woff2") format("woff2");
+  src: url("./inter-latin-700-normal-squirrel.woff2") format("woff2");
+  unicode-range: U+0-17F,U+2BB,U+2BC,U+2C6,U+2DA,U+2DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+
+
+/* Inter - bold */ 
+@font-face {
+  font-family: 'Inter Fontsource';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./inter-latin-700-normal-fontsource.woff2") format("woff2");
+  unicode-range: U+0-17F,U+2BB,U+2BC,U+2C6,U+2DA,U+2DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+
+
+/* Inter - bold */ 
+@font-face {
+  font-family: 'Inter Official';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./inter-latin-700-normal-official.woff2") format("woff2");
   unicode-range: U+0-17F,U+2BB,U+2BC,U+2C6,U+2DA,U+2DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
 }
